@@ -6,7 +6,7 @@ This program prints a single greeting to the terminal. It is a first published p
 
 I created it to confirm my local Python setup, practice GitHub from Visual Studio Code, and document the result so the next projects in my portfolio follow the same pattern.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=NeRClqeS3n0)
 
 # Development Environment
 
